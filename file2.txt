@@ -1,0 +1,18 @@
+my-website/
+components/
+Header.js
+Footer.js
+pages/
+index.js (homepage)
+portfolio/
+[index].js (portfolio page)
+blog/
+[index].js (blog page)
+contact/
+[index].js (contact page)
+public/
+images/ (for portfolio images)
+styles/
+globals.css (global styles)
+next.config.js (Next.js config file)
+package.json
